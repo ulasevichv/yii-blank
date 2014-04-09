@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="AdWordsTest" file="Z:\home\q-aces_new\www\protected\tests\functional\AdWordsTest.php" tests="1" assertions="1" failures="0" errors="0" time="83.163116">
+    <testsuite name="AdWordsTest: Internet Explorer" tests="1" assertions="1" failures="0" errors="0" time="83.163116">
+      <testcase name="testIndex" class="AdWordsTest" file="Z:\home\q-aces_new\www\protected\tests\functional\AdWordsTest.php" line="62" assertions="1" time="83.163116"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
